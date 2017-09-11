@@ -1,10 +1,10 @@
 // Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
 // --------------------------------------------------------------------------------
 // Tool Version: Vivado v.2016.4 (win64) Build 1756540 Mon Jan 23 19:11:23 MST 2017
-// Date        : Tue Aug 29 14:37:30 2017
+// Date        : Mon Sep 11 10:27:09 2017
 // Host        : WK115 running 64-bit major release  (build 9200)
 // Command     : write_verilog -force -mode synth_stub
-//               c:/Users/arbrown/Documents/Zybo-Z7-10-DMA/Zybo-Z7-10-DMA.srcs/sources_1/bd/system/ip/system_axi_iic_0_0/system_axi_iic_0_0_stub.v
+//               C:/Users/arbrown/Documents/GitHub/Zybo-Z7-10-DMA/src/bd/system/ip/system_axi_iic_0_0/system_axi_iic_0_0_stub.v
 // Design      : system_axi_iic_0_0
 // Purpose     : Stub declaration of top-level module interface
 // Device      : xc7z010clg400-1

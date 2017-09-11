@@ -1,10 +1,10 @@
 -- Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
 -- --------------------------------------------------------------------------------
 -- Tool Version: Vivado v.2016.4 (win64) Build 1756540 Mon Jan 23 19:11:23 MST 2017
--- Date        : Tue Aug 29 14:38:47 2017
+-- Date        : Mon Sep 11 10:27:46 2017
 -- Host        : WK115 running 64-bit major release  (build 9200)
 -- Command     : write_vhdl -force -mode funcsim
---               c:/Users/arbrown/Documents/Zybo-Z7-10-DMA/Zybo-Z7-10-DMA.srcs/sources_1/bd/system/ip/system_d_axi_i2s_audio_0_0/system_d_axi_i2s_audio_0_0_sim_netlist.vhdl
+--               C:/Users/arbrown/Documents/GitHub/Zybo-Z7-10-DMA/src/bd/system/ip/system_d_axi_i2s_audio_0_0/system_d_axi_i2s_audio_0_0_sim_netlist.vhdl
 -- Design      : system_d_axi_i2s_audio_0_0
 -- Purpose     : This VHDL netlist is a functional simulation representation of the design and should not be modified or
 --               synthesized. This netlist cannot be used for SDF annotated simulation.
