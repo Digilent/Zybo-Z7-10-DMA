@@ -10,5 +10,5 @@ set_property -dict { PACKAGE_PIN R16   IOSTANDARD LVCMOS33 } [get_ports ac_recda
 set_property -dict { PACKAGE_PIN Y18   IOSTANDARD LVCMOS33 } [get_ports ac_reclrc]; #IO_L8N_T1_AD10N_35 Sch=AC_RECLRC
 
 ##Audio Codec/external EEPROM IIC bus
-set_property -dict { PACKAGE_PIN N18   IOSTANDARD LVCMOS33 } [get_ports iic_scl_io]; #IO_L13P_T2_MRCC_34 Sch=AC_SCL
-set_property -dict { PACKAGE_PIN N17   IOSTANDARD LVCMOS33 } [get_ports iic_sda_io]; #IO_L23P_T3_34 Sch=AC_SDA
+set_property -dict { PACKAGE_PIN N18   IOSTANDARD LVCMOS33 } [get_ports IIC_scl_io]; #IO_L13P_T2_MRCC_34 Sch=AC_SCL
+set_property -dict { PACKAGE_PIN N17   IOSTANDARD LVCMOS33 } [get_ports IIC_sda_io]; #IO_L23P_T3_34 Sch=AC_SDA
