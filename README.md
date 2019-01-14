@@ -30,7 +30,7 @@ Requirements
 Demo Setup
 ----------
 
-1. Download the most recent release ZIP archive ("Zybo-Z7-10-DMA-2018.2-*.zip") from the repo's [releases page](https://github.com/Digilent/Zybo-Z7-10-DMA/releasess).
+1. Download the most recent release ZIP archive ("Zybo-Z7-10-DMA-2018.2-*.zip") from the repo's [releases page](https://github.com/Digilent/Zybo-Z7-10-DMA/releases).
 2. Extract the downloaded ZIP.
 3. Open the XPR project file, found at \<archive extracted location\>/vivado_proj/Zybo-Z7-10-DMA.xpr, included in the extracted release archive in Vivado 2018.2.
 4. In the toolbar at the top of the Vivado window, select **File -> Export -> Export Hardware**. Select **\<Local to Project\>** as the Exported Location and make sure that the **Include bitstream** box is checked, then click **OK**.
@@ -81,6 +81,10 @@ This demo can be used as a basis for other projects by modifying the hardware pl
 Check out the Zybo Z7-10's [Resource Center](https://reference.digilentinc.com/reference/programmable-logic/zybo-z7/start) to find more documentation, demos, and tutorials.
 
 For technical support or questions, please post on the [Digilent Forum](forum.digilentinc.com).
+
+Known Issues
+------------
+Ignorable critical warnings regarding ddr skew parameters - see Zybo Z7 hardware errata for more information.
 
 Additional Notes
 ----------------
