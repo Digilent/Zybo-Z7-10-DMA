@@ -17,7 +17,7 @@ set app_name [file tail $script_dir]
 set lang "c"
 set domain "domain_ps7_cortexa9_0"
 set platform "system_wrapper"
-set sysproj "Zybo-Z7-10-DMA_system"
+set sysproj "Zybo-Z7-20-DMA_system"
 
 # Handle dependent variables
 if {$lang == "c"} {

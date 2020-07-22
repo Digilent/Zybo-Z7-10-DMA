@@ -234,7 +234,7 @@ int main(void)
 
 
 	xil_printf("----------------------------------------------------------\r\n");
-	xil_printf("Zybo Z7-10 DMA Audio Demo\r\n");
+	xil_printf("Zybo Z7-20 DMA Audio Demo\r\n");
 	xil_printf("----------------------------------------------------------\r\n");
 	xil_printf("  Controls:\r\n");
 	xil_printf("  BTN1: Record from MIC IN\r\n");
